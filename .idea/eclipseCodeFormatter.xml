@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="eclipseVersion" value="ECLIPSE_44" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="importOrderConfigFilePath" value="$USER_HOME$/work/tools/eaio/intellij-config/eclipse.importorder" />
+        <option name="importOrderFromFile" value="true" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/work/tools/eaio/intellij-config/eclipse-sbb-formatter.xml" />
+        <option name="selectedJavaProfile" value="sbb_formatter_profile" />
+        <option name="useOldEclipseJavaFormatter" value="true" />
+      </ProjectSpecificProfile>
+    </option>
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="eclipseVersion" value="ECLIPSE_44" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1525099465402" />
+        <option name="importOrderConfigFilePath" value="$PROJECT_DIR$/../../tools/eaio/intellij-config/eclipse.importorder" />
+        <option name="importOrderFromFile" value="true" />
+        <option name="name" value="Default (Template) Project" />
+        <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../../tools/eaio/intellij-config/eclipse-sbb-formatter.xml" />
+        <option name="selectedJavaProfile" value="sbb_formatter_profile" />
+        <option name="useOldEclipseJavaFormatter" value="true" />
+      </Settings>
+    </option>
+  </component>
+</project>
